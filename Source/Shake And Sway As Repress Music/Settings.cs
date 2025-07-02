@@ -23,7 +23,7 @@ namespace ShakeAndSwayAsRepressMusic
         {
             settings = GetSettings<SasrmSettings>();
         }
-        public override string SettingsCategory() => "光州跑男の小曲";
+        public override string SettingsCategory() => "一秒六棍の小曲";
 
         public override void DoSettingsWindowContents(Rect inRect)
         {
