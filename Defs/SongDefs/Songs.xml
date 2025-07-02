@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <SongDef>
+        <defName>ShakeAndSway</defName>
+        <playOnMap>false</playOnMap>
+        <clipPath>Songs/ShakeAndSway</clipPath>
+        <volume>1</volume>
+    </SongDef>
+</Defs>
