@@ -3,9 +3,10 @@
     <name>一秒六棍の小曲</name>
     <author>kagami</author>
     <packageId>Kagami.ShakeAndSwayAsRepressMusic</packageId>
-    <modVersion>1.0.0.0</modVersion>
+    <modVersion>1.0.0.1</modVersion>
     <supportedVersions>
         <li>1.5</li>
+        <li>1.6</li>
     </supportedVersions>
     <description>
         当囚犯越狱、奴隶暴动（文化DLC）和实体逃脱（异象DLC）时播放一秒六棍の小曲，让你的镇压行动变得更具代入感
